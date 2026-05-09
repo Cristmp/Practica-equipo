@@ -57,7 +57,7 @@
     list-style: none;
     cursor: pointer;
     transform: translateY(-4px);
-    transition: all 0.3s ease;
+    transition: all 0.3s ease-in-out;
 }
 
 .menu a:hover{
